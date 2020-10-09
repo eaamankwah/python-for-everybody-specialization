@@ -1,0 +1,1 @@
+print"Edward Amankwah is my name and it's my first time learning this language"
